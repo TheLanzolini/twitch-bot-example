@@ -1,0 +1,28 @@
+{
+  "name": "twitch-bot-example",
+  "version": "1.0.0",
+  "description": "a simple bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/TheLanzolini/twitch-bot-example.git"
+  },
+  "keywords": [
+    "twitch",
+    "bot",
+    "example"
+  ],
+  "author": "Alex Lanzoni",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TheLanzolini/twitch-bot-example/issues"
+  },
+  "homepage": "https://github.com/TheLanzolini/twitch-bot-example",
+  "dependencies": {
+    "install": "^0.4.0",
+    "twitch-irc": "^1.2.7"
+  }
+}
